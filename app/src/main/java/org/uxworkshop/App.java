@@ -3,6 +3,9 @@
  */
 package org.uxworkshop;
 
+/**
+ * TODO: Document this class
+ */
 public class App {
     public String getGreeting() {
         return "Hello World!";
