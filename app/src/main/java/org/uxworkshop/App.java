@@ -11,6 +11,9 @@ public class App {
         return "Hello World!";
     }
 
+    /**
+     * TODO: Document this method  
+     */
     public static void main(String[] args) {
         App app = new App();
         System.out.println(app.getGreeting());
